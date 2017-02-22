@@ -37,6 +37,6 @@
     - TDD when possible  
     - The entire book Clean Code 
  
- * Tech to review
-    - Architecture, how to run, models for each app
+* Tech to review
+  - Architecture, how to run, models for each app
     
