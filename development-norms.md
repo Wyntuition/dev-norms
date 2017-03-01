@@ -42,7 +42,7 @@
     
 ## CSS structure 
 - All SCSS files imported into base (aurora.scss). 1 CSS file generated and included in index. 
-- All-variables.scss is imported into style files needing them. This brings in all variables (i.e. colors, space, font).
 - Variable/non-css files in modules/ folder
-- Style files (CSS output) in partial/styles/ folder
-- SCSS files organized by styles if used across pages (common.scss, buttons, etc), or by page in partial-styles/<applicant/reviewer/etc>/<page/component name>.scss
+- Style files (CSS output) in partial-styles/ folder
+- modules/all-variables.scss is imported into style files needing them. This brings in all variables (i.e. colors, space, font).
+- SCSS files organized by styles if used across pages (common.scss, buttons, etc), or by page in partial-styles/<applicant, reviewer, etc>/<page or component name>.scss
